@@ -1,0 +1,12 @@
+Go to Kali Linux
+
+Root Terminal -> 
+nmap scanme.nmap.org --top-ports 10
+
+Create a python file ->
+import nmap3
+nmap = nmap3.Nmap()
+results = nmap.scan_top_ports("your-host.com")
+# And you would get your results in json print(results)
+
+Run the file in the terminal.
