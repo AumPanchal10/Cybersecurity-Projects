@@ -1,0 +1,6 @@
+{
+  "name": "Cybersecurity Projects Studio",
+  "description": "Interactive cybersecurity suite featuring API Fuzzing, Wireshark PCAP Network Tracking & Geolocation, Nmap Port Scanning & Python Scripting, and 802.11 WiFi Probe Sniffing.",
+  "permissions": [],
+  "capabilities": []
+}
